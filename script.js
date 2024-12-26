@@ -11,5 +11,4 @@ burger.addEventListener("click",function() {
   } else {
     burgerIcon.src = "images/burger-menu.svg";
   }
-
 })
